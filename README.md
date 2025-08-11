@@ -70,12 +70,3 @@
 ## *6. Power Supply*
 - Uses *6 AA batteries* or a *rechargeable li-Ion battery*.
 - Rechargeable batteries recommended for longer use & cost savings.
-
----
-
-## *7. LEGO Commander App*
-- A simple & intuitive mobile application for Android.
-- Allows manual control of motors and sensors in real-time.
-- Great for quick tests, demos, classroom activities.
-- Connects via Bluetooth to the EV3 brick.
-- **[LEGO Commander APK](https://drive.google.com/file/d/1H8LiGWugMIBJYrGDqL8jeLUGUusKO_t7/view?usp=drive_link)**
